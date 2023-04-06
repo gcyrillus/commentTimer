@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+   <title>commentTimer</title>
+   <author>GC-nomade</author>
+   <version>1</version>
+   <date>06/04/2023</date>
+    <site>http://re7net.com</site>
+    <repository>https://github.com/gcyrillus</repository>
+   <description>Ferme les commentaires d'un article aprés un délai configurable en partant de sa date de publication ou de mise à jour</description> 
+   <scope>site</scope>
+</document>
